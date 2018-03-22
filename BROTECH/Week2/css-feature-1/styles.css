@@ -1,0 +1,17 @@
+h1 {
+  color: hotpink;
+}
+
+article {
+    display: block;
+    flex-direction: row;
+    display: flex;
+}
+
+article section {
+    width: 10em;
+    height: 10em;
+    border: 1px hotpink solid;
+    float: left;
+    margin: 1em;
+}
